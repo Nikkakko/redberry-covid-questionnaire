@@ -9,4 +9,4 @@ This is a project for the Redberry International Bootcamp 2022-2023. The project
 
 ## screenshots
 
-![screenshot]('./public/firstpage.png')
+![](./public/firstpage.png)
