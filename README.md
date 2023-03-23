@@ -6,6 +6,7 @@ This is a project for the Redberry International Bootcamp 2022-2023. The project
 - Redux-toolkit
 - Styled-components
 - Typescript
+- React-hook-form
 - Only Desktop Version
 
 ## screenshots
